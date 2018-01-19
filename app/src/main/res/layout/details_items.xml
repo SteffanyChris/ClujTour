@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/details_name"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="@dimen/paddingLeft"
+        android:layout_weight="1"
+        android:fontFamily="cursive"
+        android:gravity="center_horizontal"
+        android:textSize="@dimen/title_size"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/details_image"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginBottom="@dimen/paddingLeft"
+        android:layout_weight="2" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginBottom="@dimen/paddingLeft"
+        android:layout_marginLeft="@dimen/paddingLeft"
+        android:layout_marginRight="@dimen/paddingLeft"
+        android:layout_weight="1">
+
+        <TextView
+            android:id="@+id/details_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </ScrollView>
+
+    <ImageView
+        android:id="@+id/map_fragment"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_margin="@dimen/paddingLeft"
+        android:layout_weight="1"
+        android:src="@drawable/get_location" />
+
+</LinearLayout>

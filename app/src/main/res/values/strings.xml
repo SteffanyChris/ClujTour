@@ -1,0 +1,131 @@
+<resources>
+    <string name="app_name">Cluj Tour</string>
+    <string name="food_tab">Food</string>
+    <string name="aco_tab">Accommodation</string>
+    <string name="atr_tab">Attractions</string>
+    <string name="en_tab">Entertainment</string>
+
+    <!-- Entertainment strings -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="park_name">Central Park Cluj</string>
+    <string name="park_desc">Central Park is a large public, urban park in central Cluj-Napoca.
+        It was founded in the 19th century and it located on the souther shore of Someşul Mic River.
+        The Park is now home to the University of Arts and Design and to the Chemistry Faculty of the
+        Babeş-Bolyai University.During 2012, the Central Park was site of an important restoration
+        process, especially for the building of the Old Casino.</string>
+    <string name="cetatuie_name">Panoramic Cetatuie</string>
+    <string name="cetatuie_desc">The Cetatuie was built i between 1715 and 1735 with fences
+        shaped like a star, having one tower and being surrounded by bastions. The place was build
+        by the plan of the military architect Giovanni Murando Visconti.</string>
+    <string name="imall_name">Iulius Mall Cluj</string>
+    <string name="imall_desc">Iulius Mall Cluj is a shopping mall in Cluj-Napoca, Romania,
+        and was opened on 10 November 2007. It has 205 stores and a 10 screens cinema complex, also
+        food court. It's a really good place to spend free days.</string>
+    <string name="pmall_name">VIVO Cluj</string>
+    <string name="pmall_desc">Polus Center Cluj is a shopping mall located in Cluj-Napoca, Romania which opened on October 12, 2007.
+        At the time of its completion it was the first shopping mall in Cluj-Napoca.
+        It took 15 months to build Polus Center, and for nine months the construction site
+        was also the biggest archaeological site in Romania. Among the finds was the tomb of a
+        Gepid princess and a 3300-year-old tomb of a pair of lovers.</string>
+    <string name="ipark_name">Iulius Mall Park</string>
+    <string name="ipark_desc">This is an amazing place to be! The park
+        is built around a lake making the warm summer days way better. Occasionally there are 
+        organised music event.</string>
+    <string name="bpark_name">Babes Park</string>
+    <string name="bpark_desc">This park belongs to the University and it mostly serve as training
+        environment for Sports Faculty's students. It has jogging routes, tennis terrain, swimming pools and gym.</string>
+    <string name="dom_name">Royal Domain</string>
+    <string name="dom_desc">Royal Domain is a complex close to Cluj-Napoca which offers
+        multiple facilities such as swimming pool with both normal and termal water, spa and sauna.
+        It also offers outside activities such as horse riding.</string>
+    <string name="wonder_name">Wonderland Cluj</string>
+    <string name="wonder_desc">Wonderland Cluj is mostly an even holder place, but you can also go there
+        to spend free days relaxing at spa and swimming in amazing environment.</string>
+    <string name="piata_name">Union Square Cluj</string>
+    <string name="piata_desc">is the largest and most important squares in the Romanian
+        city of Cluj-Napoca. The square is one of the largest in Romania, with dimensions
+        of 220 m by 160 m. The central district of the city spreads out from this square.
+        The St. Michael Church, with the highest church tower in Romania (80m), is the second
+        largest Gothic-style church in Romania. The church was constructed in two phases.
+        The first from 1316 to 1390 and the second from 1410 to 1487. Also, the statue of King of
+        Hungary Matthias Corvinus is located here.</string>
+    <!-- Food strings -->
+    <string name="nobori_name">Nobori Japanese</string>
+    <string name="nobori_desc">Address: Str. Plopilor 57&#8211;62 \nPhone: 0744 339 508 \nOpen: 11AM&#8211;11PM  </string>
+    <string name="klausen_name">Klausen Burger</string>
+    <string name="klausen_desc">Address: Str. Regele Ferdinand 22 \nPhone: 0372 717 552 \nOpen: 10AM&#8211;2AM</string>
+    <string name="shanghai_name">Shanghai Cluj</string>
+    <string name="shanghai_desc">Address: Str. Calea Turzii 42 \nPhone: 0264 442 027 \nOpen: 12PM&#8211;12AM</string>
+    <string name="rex_name">Pizza Rex</string>
+    <string name="rex_desc">Address: Str. Bolyai János 9 \nPhone: 0264 596 430 \nOpen: 11:30AM&#8211;11PM</string>
+    <string name="viena_name">Bistro Viena</string>
+    <string name="viena_desc">Address: Str. Matei Corvin 3 \nPhone: 0757 082 590 \nOpen: 12PM&#8211;1AM</string>
+    <string name="livada_name">Livada Restaurant</string>
+    <string name="livada_desc">Address: Str. Clinicilor 14 \nPhone: 0722 111 115 \nOpen: 11AM&#8211;12AM</string>
+    <string name="aroma_name">Aroma Restaurant</string>
+    <string name="aroma_desc">Address: Str. Calea Turzii 295 \nPhone: 0264 480 010 \nOpen: 11PM&#8211;11PM</string>
+    <!-- Accommodation Strings -->
+    <string name="belvedere_name">Hotel Belvedere</string>
+    <string name="belvedere_desc">Address: Strada Călărașilor 1 \nPhone: 0264 432 071</string>
+    <string name="napoca_name">Grand Hotel Napoca</string>
+    <string name="napoca_desc">Address: Strada Octavian Goga 1 \nPhone: 0264 580 715</string>
+    <string name="transi_name">Transilvania Hotel</string>
+    <string name="transi_desc">Address: Strada Regele Ferdinand 20 \nPhone: 0264 594 429</string>
+    <string name="melody_name">Hotel Melody Center</string>
+    <string name="melody_desc">Address: Piața Unirii 29 \nPhone: 0264 597 465</string>
+    <string name="paradis_name">Hotel Paradis</string>
+    <string name="paradis_desc">Address: Strada Ciocârliei \nPhone: 0264 413 940</string>
+    <string name="stil_name">Hotel Stil</string>
+    <string name="stil_desc">Address: nr. 5B, Fagetului Street \nPhone: 0264 438 171</string>
+    <string name="premier_name">Premier Hotel</string>
+    <string name="premier_desc">Address: Strada Donath \nPhone: 0264 307 200</string>
+    <!-- Attractions strings -->
+    <string name="botanicm_name">Botanical Garden Museum</string>
+    <string name="botanicm_desc"> The Botanical Institute accommodates the Botanical Museum,
+        with a collection of about 7,000 items, grouped in the first part in the form of collections
+        of scientific or economic importance, and in the second part, according to a phylogenetic criteria,
+        in evolving order, beginning from plants with simple organization (algae, mosses, lichens, fungi),
+        to plants with complex organization (gymnosperms and angiosperms).</string>
+    <string name="botanical_garden_name">Alexandru Borza Botanical Garden</string>
+    <string name="botanical_garden_desc">The Botanical Garden covers 14 hectares, a varied land
+        configuration suitable for the growth and development of plants from different continents.
+        Around 10,000 specific categories are cultivated here, grouped for a better administration
+        into several sectors: ornamental, phytogeographic, systematic, economic, greenhouses complex
+        and the sector destined for persons with sight deficiencies - created recently in order to meet
+        the needs expressed repeatedly by the community. </string>
+    <string name="historynm_name">National Museum of Transylvanian History</string>
+    <string name="historynm_desc">The National Museum of Transylvanian History (Romanian: Muzeul Național de Istorie a Transilvaniei) is a history and archaeology
+        museum in the city of Cluj-Napoca, Romania. It features a permanent exhibition,
+        as well as temporary exhibitions, the "Tezaur" exhibition, and Pharmacy Historical
+        collection—this last opened in the Hintz House, an historical building in the city's center.</string>
+    <string name="parc_etno_name">Ethnographic Park Romulus Vuia</string>
+    <string name="parc_etno_desc">The museum has a collection of more than 50,000 objects reflecting
+        the occupations, the habits and the life style of the Transylvanian rural population.
+        Part of this collection is to be found in the Reduta Palace while the rest of the objects are
+        in the open-air section. The most ancient objects here exhibited date from 1678.</string>
+    <string name="forest_name">Hoia Forest</string>
+    <string name="forest_desc">The Hoia-Baciu Forest ( World’s Most Haunted Forest ) is situated near
+        Cluj-Napoca, Romania covers an area of ​​over 250 hectares and is often referred to as the
+        Bermuda Triangle of the country. Hoia Baciu Forest ( World’s Most Haunted Forest ), has a
+        reputation for intense paranormal activity and unexplained events. Reports have included, ghost
+        sightings, unexplained apparitions, faces appearing in photographs that were not visible with
+        the naked eye, and in the 1970s, UFO sightings were reported.</string>
+    <string name="museums_name">Museum Square Cluj</string>
+    <string name="museums_desc">The Museum Square, located in the heart of Cluj Napoca is
+        one of the oldest markets in the city. It is named after Transilavnie History Museum
+        that is in its end. The Old City Square, over time wore several names.
+        Small Square was known in the Middle Ages (zhe Big Square was that surrouns
+        St. Michael Church), and Karolina Square in the eighteenth and nineteenth centuries.
+        Today is known as The Museum Square.</string>
+    <string name="salina_name">Turda Salt Mine</string>
+    <string name="salina_desc">Salina Turda is a salt mine located in the Durgău-Valea Sărată
+        area of Turda, the second largest city in Cluj County, Romania. Salt was first extracted here
+        during the antiquity and the mine continuously produced table salt from the Middle Ages
+        (the mine being first mentioned in 1075) to the early 20th century (1932). The first document
+        that speaks explicitly about the existence of a salt mine in Turda dates from 1 May 1271,
+        being issued by the Hungarian chancellery. </string>
+    <string name="farma_name">Pharmaceutical Museum Cluj</string>
+    <string name="farma_desc">The Pharmacy History Collection can be found in the oldest pharmacy
+        building of Cluj-Napoca, named “La Sfântul Gheorghe”, also known as the Hintz pharmacy,
+        dating back to 1573.</string>
+</resources>
